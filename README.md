@@ -30,4 +30,14 @@ https://microsoft.github.io/language-server-protocol/
 
 # Examples
 
+* https://github.com/apupier/language-server-template-java
+* https://github.com/apupier/language-client-template-codemirror
+* https://github.com/itemis/xtext-languageserver-example
+* https://github.com/Ikuyadeu/vscode-language-server-template
+
 # Presentations
+
+# Connex protocol
+
+* https://www.eclipse.org/glsp/
+* https://microsoft.github.io/debug-adapter-protocol/
