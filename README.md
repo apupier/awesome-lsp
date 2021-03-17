@@ -23,6 +23,11 @@ https://microsoft.github.io/language-server-protocol/
 
 * https://microsoft.github.io/language-server-protocol/implementors/sdks/
 
+# IDE specific documentation
+
+* https://code.visualstudio.com/api/language-extensions/language-server-extension-guide
+* https://www.eclipse.org/community/eclipse_newsletter/2017/may/article3.php
+
 # Examples
 
 # Presentations
