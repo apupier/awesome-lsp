@@ -10,19 +10,18 @@ https://microsoft.github.io/language-server-protocol/
 
 ## Servers
 
-https://microsoft.github.io/language-server-protocol/implementors/servers/
-https://langserver.org/#implementations-server
-https://github.com/Hexlet/awesome-lsp-servers
-
+* https://microsoft.github.io/language-server-protocol/implementors/servers/
+* https://langserver.org/#implementations-server
+* https://github.com/Hexlet/awesome-lsp-servers
 
 ## Clients
 
-https://langserver.org/#implementations-client
-https://microsoft.github.io/language-server-protocol/implementors/tools/
+* https://langserver.org/#implementations-client
+* https://microsoft.github.io/language-server-protocol/implementors/tools/
 
 ## SDKs
 
-https://microsoft.github.io/language-server-protocol/implementors/sdks/
+* https://microsoft.github.io/language-server-protocol/implementors/sdks/
 
 # Examples
 
